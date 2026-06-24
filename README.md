@@ -13,6 +13,9 @@ Permanent links (always serve the latest published version):
 | macOS (Apple Silicon) | [Cadence-arm64.dmg](../../releases/latest/download/Cadence-arm64.dmg) |
 | macOS (Intel) | [Cadence-x64.dmg](../../releases/latest/download/Cadence-x64.dmg) |
 | Windows | [Cadence-setup.exe](../../releases/latest/download/Cadence-setup.exe) |
+| Linux (universal AppImage) | [Cadence-x86_64.AppImage](../../releases/latest/download/Cadence-x86_64.AppImage) |
+| Ubuntu / Debian (.deb) | [Cadence-amd64.deb](../../releases/latest/download/Cadence-amd64.deb) |
+| CentOS / RHEL / Fedora (.rpm) | [Cadence-x86_64.rpm](../../releases/latest/download/Cadence-x86_64.rpm) |
 
 Or browse the **[latest release](../../releases/latest)**. The app
 **auto-updates itself** (via `electron-updater`) — you only download once.
