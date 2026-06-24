@@ -12,6 +12,7 @@ Permanent links (always serve the latest published version):
 |---|---|
 | macOS (Apple Silicon) | [Cadence-arm64.dmg](../../releases/latest/download/Cadence-arm64.dmg) |
 | macOS (Intel) | [Cadence-x64.dmg](../../releases/latest/download/Cadence-x64.dmg) |
+| Windows | [Cadence-setup.exe](../../releases/latest/download/Cadence-setup.exe) |
 
 Or browse the **[latest release](../../releases/latest)**. The app
 **auto-updates itself** (via `electron-updater`) — you only download once.
