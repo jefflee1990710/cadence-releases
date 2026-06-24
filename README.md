@@ -6,14 +6,15 @@ published here.
 
 ## Download the app
 
-Latest signed & notarized builds are on the **[latest release](../../releases/latest)**:
+Permanent links (always serve the latest published version):
 
-| Platform | File |
+| Platform | Download |
 |---|---|
-| macOS (Apple Silicon) | `Cadence-<version>-arm64.dmg` |
-| macOS (Intel) | `Cadence-<version>-x64.dmg` |
+| macOS (Apple Silicon) | [Cadence-arm64.dmg](../../releases/latest/download/Cadence-arm64.dmg) |
+| macOS (Intel) | [Cadence-x64.dmg](../../releases/latest/download/Cadence-x64.dmg) |
 
-The app **auto-updates itself** (via `electron-updater`) — you only download once.
+Or browse the **[latest release](../../releases/latest)**. The app
+**auto-updates itself** (via `electron-updater`) — you only download once.
 
 ## Standalone MCP binaries (no Node required)
 
